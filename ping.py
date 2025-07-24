@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # Load .env variables
 load_dotenv()
 
-url = os.getenv("https://secretshare-bot-1-f8ot.onrender.com")
+url = os.getenv("https://secretshare-bot-ykh0.onrender.com")
 interval = int(os.getenv("PING_INTERVAL", 20))
 
 while True:
