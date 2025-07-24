@@ -8,8 +8,7 @@ API_HASH = os.getenv("API_HASH", "3c24fc84a2dc724da488febe6572d79d")
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "7869145686:AAF95CcyytamphsQM7eUVgDLn4Ij2okvAhs")
 
-MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://infodotxbrain:bq3jxV3MFfHNNztx@cluster0.nrlf6aw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-")
+MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://infodotxbrain:bq3jxV3MFfHNNztx@cluster0.nrlf6aw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 OWNER_ID = int(os.getenv("OWNER_ID", "7832626481"))
 
